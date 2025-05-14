@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RLVM13
+- 👋 Hi, I’m Rafa
 - 🌱 I’m currently learning business analitycs
 - 📫 How to reach me ralavemo@gmail.com
 - ⚡ Fun fact: Almost all of 2024 are web development course projects and 2025 are business intelligence course projects.
